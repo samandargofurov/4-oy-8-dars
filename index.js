@@ -88,12 +88,7 @@
 
 //  12. Satrning palindrom ekanligini tekshiradigan funksiya yarating (tinish belgilariga e’tibor bermay).
 
-const palindrom = (arg) {
 
-}
-
-let res = palindrom("arra");
-console.log(res);
 
 //  13. Silindrning radiusi va balandligini hisobga olgan holda uning hajmini hisoblaydigan funksiyani ishlab chiqing.
 
